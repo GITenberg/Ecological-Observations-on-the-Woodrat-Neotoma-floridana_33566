@@ -1,0 +1,33 @@
+_repo: Ecological-Observations-on-the-Woodrat-Neotoma-floridana_33566
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Rainey, Dennis G.
+    gutenberg_agent_id: '34973'
+    url: http://www.gutenberg.org/2009/agents/34973
+  - agent_name: Fitch, Henry S. (Henry Sheldon)
+    birthdate: 1909
+    deathdate: 2009
+    gutenberg_agent_id: '36389'
+    url: http://www.gutenberg.org/2009/agents/36389
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wood rats'
+- !lcc 'QH'
+title: Ecological Observations on the Woodrat, Neotoma floridana
+url: http://www.gutenberg.org/ebooks/33566
