@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36389
     wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33566#Ecological-Observations-on-the-Woodrat-Neotoma-floridana
 gutenberg_bookshelf:
 - Animals-Wild-Mammals
 - Animal
